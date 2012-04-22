@@ -2,4 +2,4 @@ This is a simple command-line maze generator I wrote just to gain a better under
 
 Usage
 See Main.cs in the Driver folder.  Simply instantiate a maze object, and pass in the length and width of the maze.
-The rest of the code in Main() is simply emitting the maze matrix.
+The rest of the code in Main() is simply emitting the maze matrix to standard out.
